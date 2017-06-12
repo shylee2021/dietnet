@@ -1,0 +1,6 @@
+# ignore data files
+data/*
+*.npy
+
+# ignore bite-compiled file
+*.pyc
